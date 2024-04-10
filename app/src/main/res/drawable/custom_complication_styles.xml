@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<drawable
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    class="android.support.wearable.complications.rendering.ComplicationDrawable"
+    app:backgroundColor="#1D1D1D"
+    app:borderStyle="none"
+    app:borderRadius="50dp"
+
+    app:borderColor="@color/black"
+    app:rangedValuePrimaryColor="@color/white"
+    app:rangedValueRingWidth="4dp"
+    app:rangedValueSecondaryColor="@color/black"
+    app:iconColor="@color/complicationDrawable_iconColor"
+    app:textColor="@color/white"
+    app:textSize="9sp"
+    app:titleColor="@color/gray"
+    app:titleSize="10sp">
+
+
+</drawable>
+<!--app:borderColor="@color/white"-->

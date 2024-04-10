@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2017 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+
+    private static final int COLOR_YELLOW = 0xffFFEE58;
+    private static final int COLOR_RED = 0x;
+    private static final int COLOR_LIGHT_RED = 0x;
+    <color name="green">#c6ff1a</color>
+
+    <color name="purple">#03d0d4</color>
+    <color name="light_purple">#03191f</color>
+    <color name="red">#ea164a</color>
+    <color name="light_red">#1f0300</color>
+
+    <color name="light_yellow">#EAF702</color>
+
+    <color name="Applegrey">#80484a48</color>
+    <color name="opacity">#00000000</color>
+
+    <color name="ambient_primary_color">@color/white</color>
+    <color name="ambient_secondary_color">@color/white_50</color>
+
+
+    <!-- Red Style -->
+    <color name="red_primary_color">@color/maroon_light</color>
+    <color name="red_secondary_color">@color/maroon_50</color>
+
+    <!-- Green Style -->
+    <color name="green_primary_color">@color/light_green</color>
+    <color name="green_secondary_color">@color/dark_green</color>
+
+
+    <!-- Blue Style -->
+    <color name="blue_primary_color">@color/light_blue</color>
+    <color name="blue_secondary_color">@color/dark_blue</color>
+
+
+    <!-- White Style -->
+    <color name="white_primary_color">@color/white_70</color>
+    <color name="white_secondary_color">@color/white_50</color>
+
+
+    <color name="transparent">#00000000</color>
+    <color name="white">@android:color/white</color>
+    <color name="white_10">#1DFFFFFF</color>
+    <color name="white_30">#4DFFFFFF</color>
+    <color name="white_50">#80FFFFFF</color>
+    <color name="white_60">#96FFFFFF</color>
+    <color name="white_70">#B3FFFFFF</color>
+    <color name="white_90">#D3FFFFFF</color>
+    <color name="black">@android:color/black</color>
+    <color name="black_40">#66000000</color>
+    <color name="black_50">#80000000</color>
+    <color name="dark_green">#008616</color>
+    <color name="light_green">#101800</color>
+    <color name="light_green_30">#4D00E676</color>
+    <color name="light_green_50">#8000E676</color>
+    <color name="light_green_60">#9600E676</color>
+    <color name="light_green_70">#B300E676</color>
+    <color name="light_blue">#4FC3F7</color>
+    <color name="light_blue_30">#4D4FC3F7</color>
+    <color name="light_blue_50">#804FC3F7</color>
+    <color name="light_blue_60">#964FC3F7</color>
+    <color name="light_blue_70">#B34FC3F7</color>
+    <color name="gray">#424242</color>
+    <color name="gray_30">#4D424242</color>
+    <color name="gray_40">#64424242</color>
+    <color name="gray_50">#80424242</color>
+    <color name="gray_70">#B3424242</color>
+    <color name="dark_gray">#211E1D</color>
+    <color name="maroon_light">#EEA19A</color>
+    <color name="maroon_30">#4DEEA19A</color>
+    <color name="maroon_50">#80EEA19A</color>
+    <color name="maroon_60">#96EEA19A</color>
+    <color name="maroon_70">#B3EEA19A</color>
+    <color name="yellow">#FDE7B1</color>
+    <color name="yellow_30">#4DFDE7B1</color>
+    <color name="yellow_50">#80FDE7B1</color>
+    <color name="yellow_70">#B3FDE7B1</color>
+    <color name="gray_white">#EEEEEE</color>
+    <color name="dark_pink">#F50057</color>
+    <color name="dark_blue">#1565C0</color>
+
+    <color name="blue1">#00f9d3</color>
+    <color name="blue2">#01bfe2</color>
+    <color name="green1">#92f003</color>
+    <color name="green2">#acf704</color>
+    <color name="red1">#f42770</color>
+    <color name="red2">#e30a2e</color>
+    <color name="comp2">#1D1D1D</color>
+
+
+
+</resources>
